@@ -1,86 +1,57 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Logan Wright's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Logan Wright
+Physics and Machine Learning Student @ BYU-Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="logan_wright5@icloud.com">logan_wright5@icloud.com</a>
+| <a href="https://www.linkedin.com/in/logan-wright-1116bb238">LinkedIn</a>
+| <a href="https://loganwrightai.github.io/logan-wright-resume/">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2018-CURRENT`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
-
+- Bachelor's program in physics and certificate in machine learning
 
 ## Related Experience
 
-### Internships
+`SEPTEMBER 2022 - DECEMBER 2022`
+__Rocket Experiment - Physics Lab__, Rexburg, ID
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+- Lead a team of 3 others to successfully design, build, and test an all out experiment exploring the nature of air resistance in relation to projectile geometry
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+__Machine Learning Classification Model__, Rexburg, ID
 
-### Data Science Lead
+- A weapons classifying model designed to recognize guns of various types within an image frame. Further work on this project involves deploying it to an active system with camera input. Made using PyTorch
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+__Robotics Teachers Assistant__, Rexburg, ID
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Helped over 200 students over the course of a year to attain skills in methodical problem solving and several real-life applicable coding problems
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+- Specific skills include Arduino usage for both sensor applications and mechatronics
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+__Physics and Mathematics Tutor__, Rexburg, ID
 
-### Data Science Consulting Team
+- Taught and helped direct learning for over a hundred students over the past year, specifically with calculus-based physics courses and all levels of mathematics
 
-`January 2027 - April 2027`
-__Imagine Learning__
+### Extra Experience
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`2020-2022`
+__Missionary in Arizona and Mexico__
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+- Learned to adapt messages and information to meet the needs of people I met and gained stronger communication skills
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+`2022`
+__Eagle Scout Award__, San Diego, CA
 
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+- Lead a team of additional volunteers to design, build, and install a campus map enclosure, which now is located at the front of Del Norte High School
 
 <!-- ### Footer
 
