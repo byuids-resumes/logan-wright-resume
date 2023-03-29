@@ -8,7 +8,7 @@ Physics and Machine Learning Student @ BYU-Idaho
 <div id="webaddress">
 <a href="logan_wright5@icloud.com">logan_wright5@icloud.com</a>
 | <a href="https://www.linkedin.com/in/logan-wright-1116bb238">LinkedIn</a>
-| <a href="https://loganwrightai.github.io/logan-wright-resume/">GitHub</a>
+| <a href="https://github.com/loganwrightAI">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
