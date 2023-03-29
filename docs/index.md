@@ -41,7 +41,7 @@ __Physics and Mathematics Tutor__, Rexburg, ID
 
 - Taught and helped direct learning for over a hundred students over the past year, specifically with calculus-based physics courses and all levels of mathematics
 
-### Extra Experience
+## Extra Experience
 
 `2020-2022`
 __Missionary in Arizona and Mexico__
